@@ -32,9 +32,7 @@ It provides an AI-powered tool to parse resumes (PDF/TXT) and display structured
    uvicorn api:app --reload
    ```
 
-##  Screenshots
-Screenshots of the Streamlit dashboard and parsing results are included in the Word/PDF report.
-
 ## 📌 Notes
 - This project is for demo/evaluation purposes only.
 - Uploaded resumes are **not stored or shared externally**.
+
